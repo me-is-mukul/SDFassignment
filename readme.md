@@ -1,5 +1,5 @@
 # SDF ASSIGNMENT Batch B5
-## Mukul AGgarwal 2401030239 
+## Mukul Aggarwal 2401030239 
 
 ## How to compile me?
 ```
